@@ -8,3 +8,4 @@ and uncover opportunities to generate revenue.
 
 
 Design a regression model to predict the ratings given by the learners to the course
+  
