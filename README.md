@@ -4,7 +4,7 @@
 
 This project aims to **analyze and predict course ratings** on the GUVI platform using machine learning. By building a regression model, we can uncover what makes a course successful and how different features influence learner ratings.
 
----
+--- 
 
 ## 🧾 About the Dataset
 
